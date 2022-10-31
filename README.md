@@ -1,3 +1,3 @@
 # tweetio
-#hactoberfest
 print("HELLO HACTOBERFEST")
+print("Namsate World")
