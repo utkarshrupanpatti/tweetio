@@ -1,2 +1,2 @@
 # tweetio
-hactoberfest
+print("Namsate World")
